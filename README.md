@@ -1,16 +1,22 @@
-# oyunuygulamaakademi
+# Google Oyun ve Uygulama Akademisi Flutter Grup 25
 
-A new Flutter project.
+**Güneş Enerjisi Potansiyeli Hesaplama Uygulaması**
 
-## Getting Started
+Bu uygulama, çatı veya tarla gibi alanların güneş enerjisi potansiyelini hesaplamak için tasarlanmıştır. Kullanıcılar, konum bilgileri ve alan özellikleri girerek kişiselleştirilmiş enerji üretim raporları alabilirler.
 
-This project is a starting point for a Flutter application.
+**Özellikler:**
 
-A few resources to get you started if this is your first Flutter project:
+* Konuma özel güneşlenme verileriyle doğru hesaplamalar
+* Çatı veya tarla eğimi, yönü ve alan gibi detaylı bilgi girişi
+* Yıllık enerji üretimi, potansiyel tasarruf ve yatırım getirisi tahmini
+* Güneş enerjisi sistemleri hakkında bilgilendirici kaynaklar
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+**Hedef Kitle:**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Ev sahipleri
+* Çiftçiler
+* Güneş enerjisi yatırımcıları
+* Yenilenebilir enerjiye ilgi duyan herkes
+
+
+
